@@ -1,0 +1,3 @@
+/* rappel de la fonction dans le programme*/
+
+message();
