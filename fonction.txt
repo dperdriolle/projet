@@ -1,0 +1,4 @@
+/*création d'une fonction*/
+function message(){
+	alert("a que coucou");
+}
